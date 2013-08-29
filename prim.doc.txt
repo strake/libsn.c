@@ -1,0 +1,6 @@
+':' denotes concatenation
+'=' denotes assignment
+
+PRIM_ADD(c, z, x, y)		c:z = x + y
+PRIM_SUB(c, z, x, y)		c:z = x - y
+PRIM_MUL(c, z, x, y)		c:z = x · y
